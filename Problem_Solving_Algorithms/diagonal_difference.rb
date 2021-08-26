@@ -9,5 +9,3 @@ def diagonalDifference(array)
     
     (pricipal_diagonal - secondary_diagonal).abs
 end
-
-diagonalDifference([[1, 2, 3],[4, 5, 6],[10, 8, 9]])
