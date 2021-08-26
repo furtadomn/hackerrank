@@ -9,7 +9,5 @@ def compareTriplets(alice, bob)
           bob_score += 1 
         end
     end
-
     [alice_score, bob_score]
-
 end
