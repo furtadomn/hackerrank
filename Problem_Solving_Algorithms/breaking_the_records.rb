@@ -13,6 +13,3 @@ def breakingRecords(scores)
   end
   min_max
 end
-
-
-breakingRecords([10, 5, 20, 20, 4, 5, 2, 25, 1])
