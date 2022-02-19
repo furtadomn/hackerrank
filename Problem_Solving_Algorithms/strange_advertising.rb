@@ -5,7 +5,7 @@ def viralAdvertising(total_of_days)
   cumulative = 0
 
   array_of_days.each do |day|
-    liked = (shared / 2)
+    liked = shared / 2
     cumulative += liked
     shared = liked * 3
   end
